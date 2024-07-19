@@ -1,70 +1,160 @@
-# Getting Started with Create React App
+### Internship Journey at Prodigy Infotech
+_____________________________________________________________________________________________________________________________________________________________________________
+### Overview
+Welcome to the detailed overview of my internship journey at Prodigy Infotech. This document outlines the daily tasks, topics covered, and projects completed during the internship from 15th May to 15th June 2024.
+_____________________________________________________________________________________________________________________________________________________________________________
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Week 1
+### Day 1: 15/05/2024 (Wednesday)
+Topic: Introduction to Company and Internship Plan
 
-## Available Scripts
+Details: Introduction to the company, its vision, and an overview of the internship plan.
 
-In the project directory, you can run:
+### Day 2: 16/05/2024 (Thursday)
+Topic: Overview of HTML and CSS Basics
 
-### `npm start`
+Details: Reviewed HTML structure, tags, and basic CSS styling.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Day 3: 17/05/2024 (Friday)
+Topic: Introduction to JavaScript
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Details: Covered JavaScript syntax, variables, and basic operations.
 
-### `npm test`
+### Day 4: 18/05/2024 (Monday)
+Topic: JavaScript and DOM Manipulation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Details: Learned how to interact with the DOM using JavaScript.
 
-### `npm run build`
+### Day 5: 19/05/2024 (Tuesday)
+Topic: Introduction to Bootstrap
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Details: Discussed Bootstrap basics for responsive design and UI components.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Week 2
+_____________________________________________________________________________________________________________________________________________________________________________
+### Day 6: 22/05/2024 (Wednesday)
+Topic: Advanced JavaScript Concepts
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Details: Focused on functions, events, and error handling.
 
-### `npm run eject`
+### Day 7: 23/05/2024 (Thursday)
+Topic: MySQL Basics
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Details: Explored database fundamentals, tables, and basic queries.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Day 8: 24/05/2024 (Friday)
+Topic: PHP and MySQL Integration
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Details: Learned how to connect PHP with MySQL and perform CRUD operations.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Day 9: 25/05/2024 (Monday)
+Topic: Bootstrap Layouts and Grids
 
-## Learn More
+Details: Learned about the Bootstrap grid system and custom layouts.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Day 10: 26/05/2024 (Tuesday)
+Topic: JavaScript and AJAX
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Details: Implemented AJAX calls for dynamic page updates without reloading.
 
-### Code Splitting
+### Week 3
+_____________________________________________________________________________________________________________________________________________________________________________
+### Day 11: 29/05/2024 (Wednesday)
+Project: Responsive Landing Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Details: Created a fully responsive landing page using HTML, CSS, and Bootstrap.
 
-### Analyzing the Bundle Size
+### Day 12: 30/05/2024 (Thursday)
+Project: Responsive Landing Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Details: Continued development and testing of the responsive landing page.
 
-### Making a Progressive Web App
+### Day 13: 31/05/2024 (Friday)
+Project: Stopwatch Web Application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Details: Developed a stopwatch application using JavaScript for functionality and Bootstrap for styling.
 
-### Advanced Configuration
+### Day 14: 01/06/2024 (Saturday)
+Project: Stopwatch Web Application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Details: Completed development and testing of the stopwatch application.
 
-### Deployment
+### Day 15: 02/06/2024 (Sunday)
+Project: Tic-Tac-Toe Web Application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Details: Started developing a Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
-### `npm run build` fails to minify
+### Week 4
+_____________________________________________________________________________________________________________________________________________________________________________
+### Day 16: 05/06/2024 (Wednesday)
+Project: Tic-Tac-Toe Web Application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Details: Continued development and testing of the Tic-Tac-Toe game.
+
+### Day 17: 06/06/2024 (Thursday)
+Project: Tic-Tac-Toe Web Application
+
+Details: Finalized the Tic-Tac-Toe game and implemented additional features.
+
+### Day 18: 07/06/2024 (Friday)
+Project: Personal Portfolio Website
+
+Details: Started building a personal portfolio website to showcase projects, using HTML, CSS, JavaScript, and PHP.
+
+### Day 19: 08/06/2024 (Saturday)
+Project: Personal Portfolio Website
+
+Details: Continued development of the personal portfolio website.
+
+### Day 20: 09/06/2024 (Sunday)
+Project: Personal Portfolio Website
+
+Details: Completed and tested the personal portfolio website.
+
+### Week 5
+_____________________________________________________________________________________________________________________________________________________________________________
+Day 21: 12/06/2024 (Wednesday)
+Project: Hotel Management System
+
+Details: Started developing a hotel management system using HTML, CSS, JavaScript, PHP, and MySQL.
+
+### Day 22: 13/06/2024 (Thursday)
+Project: Hotel Management System
+
+Details: Continued development of the hotel management system.
+
+### Day 23: 14/06/2024 (Friday)
+Project: Hotel Management System
+
+Details: Completed development and testing of the hotel management system.
+
+### Day 24: 15/06/2024 (Saturday)
+Project: Weather App
+
+Details: Created a weather application that fetches real-time data from a weather API, using HTML, CSS, JavaScript, and React.
+
+### Project Details
+_____________________________________________________________________________________________________________________________________________________________________________
+### Responsive Landing Page
+Description: Created a fully responsive landing page using HTML, CSS, and Bootstrap.
+
+### Stopwatch Web Application
+Description: Developed a stopwatch application using JavaScript for functionality and Bootstrap for styling.
+
+### Tic-Tac-Toe Web Application
+Description: Implemented a Tic-Tac-Toe game using HTML, CSS, and JavaScript.
+
+### Personal Portfolio Website
+Description: Built a personal portfolio website to showcase projects, using HTML, CSS, JavaScript, and PHP.
+
+### Hotel Management System
+Description: Developed a hotel management system for managing bookings, customer data, and other functionalities using HTML, CSS, JavaScript, PHP, and MySQL.
+
+### Weather App
+Description: Created a weather application that fetches real-time data from a weather API, using HTML, CSS, JavaScript, and React.
+
+### Conclusion
+_____________________________________________________________________________________________________________________________________________________________________________
+This internship provided a comprehensive understanding of developing web applications using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and React. The experience gained through building various web applications was invaluable in enhancing my skills and practical knowledge.
+
+
